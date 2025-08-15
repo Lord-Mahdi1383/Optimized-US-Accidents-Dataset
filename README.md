@@ -11,10 +11,10 @@ This project analyzes the US Accidents dataset (2016-2023) containing over 7.7 m
 # 📂 Dataset
 
 ## US Accidents (2016-2023)
-  -Size: 653MB (compressed), ~3GB uncompressed  
-  -Records: 7,728,394 accidents  
-  -Features: 46 original columns (reduced to 42 after cleaning)  
-  -Source: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents  
+  - Size: 653MB (compressed), ~3GB uncompressed  
+  - Records: 7,728,394 accidents  
+  - Features: 46 original columns (reduced to 42 after cleaning)  
+  - Source: https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents  
 
 # 🔍 Outlier Detection Methods
 ### IQR-based outlier
